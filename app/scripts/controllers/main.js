@@ -12,6 +12,7 @@ angular.module('eTrabahoApp')
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
-      'Karma'
+      'Karma',
+      'Richard'
     ];
   });
