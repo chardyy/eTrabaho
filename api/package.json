@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "trabaho app",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Orofeo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
