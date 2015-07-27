@@ -20,8 +20,9 @@ angular
         templateUrl: '/views/main.html'
       })
       .state('register', {
-      url: '/register',
-      templateUrl: '/views/register.html'
+        url: '/register',
+        templateUrl: '/views/register.html',
+        controller: 'RegisterController'
     });
 
   });
